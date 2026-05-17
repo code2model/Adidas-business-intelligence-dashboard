@@ -1,2 +1,2 @@
 # Dashboard
-![alt text](https://github.com/atul-pathronia/Adidas-Sales-Analysis/blob/main/adidas_sales_analysis.JPG?raw=true)
+<img width="1191" height="695" alt="image" src="https://github.com/user-attachments/assets/f5c9a14f-521b-4a89-a6eb-bc3f51aff21f" />
